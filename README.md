@@ -1,13 +1,13 @@
 # dvralfa
 
-#installations
+#installations<br>
 
-#Termux or linux
-git clone https://github.com/saadadjahankhan/dvralfa
-cd dvralfa
-chmod +x *
-pip install -r requirements.txt
-python2 modedcve.py
+#Termux or linux<br>
+git clone https://github.com/saadadjahankhan/dvralfa<br>
+cd dvralfa<br>
+chmod +x *<br>
+pip install -r requirements.txt<br>
+python2 modedcve.py<br>
 
-#Exploit Author Capitan alfa
-#Moded by Fardin
+#Exploit Author Capitan alfa<br>
+#Moded by Fardin<br>
